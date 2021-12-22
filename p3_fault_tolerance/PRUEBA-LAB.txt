@@ -1,0 +1,3581 @@
+[a755844@lab102-202 Distribuidos]$ sh ibash: !ref: unbound variable
+bash: !ref: unbound variable
+bash: words[i]: unbound variable
+[a755844@lab102-202 Distribuidos]$ sh ini.sh 1 202
+Erlang/OTP 22 [erts-10.5.5] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1] [hipe]
+
+warning: the VM is running with native name encoding of latin1 which may cause Elixir to malfunction as it expects utf8. Please ensure your locale is set to UTF-8 (which can be verified by running "locale" in your shell)
+warning: variable "sol" is unused (if the variable is not meant to be used, prefix it with an underscore)
+  p3_v2.ex:135: Cliente.listener/0
+
+warning: variable "sol" is unused (if the variable is not meant to be used, prefix it with an underscore)
+  p3_v2.ex:174: Cliente.iniciar2/1
+
+warning: variable "pid_cliente" is unused (if the variable is not meant to be used, prefix it with an underscore)
+  p3_v2.ex:218: Init.iniciar/0
+
+warning: variable "resultado" is unused (if the variable is not meant to be used, prefix it with an underscore)
+  p3_v2.ex:302: Proxy.recibir3/8
+
+warning: variable "time" is unused (if the variable is not meant to be used, prefix it with an underscore)
+  p3_v2.ex:300: Proxy.recibir3/8
+
+warning: the result of the expression is ignored (suppress the warning by assigning the expression to the _ variable)
+  p3_v2.ex:281
+
+Interactive Elixir (1.9.1) - press Ctrl+C to exit (type h() ENTER for help)
+iex(node1@155.210.154.202)1> Init.iniciar
+[:"node1@155.210.154.203", :"node2@155.210.154.203", :"node3@155.210.154.203",
+ :"node4@155.210.154.203", :"node1@155.210.154.204", :"node2@155.210.154.204",
+ :"node3@155.210.154.204", :"node4@155.210.154.204", :"node1@155.210.154.205",
+ :"node2@155.210.154.205", :"node3@155.210.154.205", :"node4@155.210.154.205",
+ :"node1@155.210.154.196", :"node2@155.210.154.196", :"node3@155.210.154.196",
+ :"node4@155.210.154.196", :"node1@155.210.154.197", :"node2@155.210.154.197",
+ :"node3@155.210.154.197", :"node4@155.210.154.197", :"node1@155.210.154.199",
+ :"node2@155.210.154.199", :"node3@155.210.154.199", :"node4@155.210.154.199"]
+"M -> MASTER ESTA VIVO"
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+[]
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[]
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+[]
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> worder lanzado"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10282.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+[#PID<10282.253.0>, #PID<10283.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+[#PID<10282.253.0>, #PID<10283.255.0>, #PID<10284.253.0>]
+"PO -> ESTOY VIVO"
+[]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+10018
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"PO -> OK2"
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10284.253.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+[#PID<10284.253.0>, #PID<10282.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+7864
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+[#PID<10284.253.0>, #PID<10282.253.0>, #PID<10283.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10285.249.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+10005
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+"PR -> solucion recivida"
+[#PID<10285.249.0>, #PID<10286.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK2"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10285.249.0>, #PID<10286.255.0>, #PID<10287.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> TENGO WORKERS"
+10006
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> MASTER ESTA VIVO"
+"PR -> solucion recivida"
+[#PID<10288.253.0>]
+"PR -> solucion recivida"
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PO -> OK2"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10288.253.0>, #PID<10282.253.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+7870
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10288.253.0>, #PID<10282.253.0>, #PID<10289.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+[]
+"M -> workers recibidos "
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> MASTER ESTA VIVO"
+"PO -> OK2"
+"M -> QUIERO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10284.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+10009
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10284.253.0>, #PID<10290.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+10009
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10284.253.0>, #PID<10290.255.0>, #PID<10291.255.0>]
+"PR -> solucion recivida"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10284.253.0>, #PID<10290.255.0>, #PID<10291.255.0>, #PID<10292.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10284.253.0>, #PID<10290.255.0>, #PID<10291.255.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+[#PID<10292.255.0>, #PID<10293.255.0>]
+"PR -> solucion recivida"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PO -> OK2"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+7873
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>]
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>]
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>,
+ #PID<10298.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>,
+ #PID<10298.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>,
+ #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>,
+ #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>, #PID<10282.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>,
+ #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>, #PID<10282.253.0>,
+ #PID<10300.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+10017
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>, #PID<10286.255.0>,
+ #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>, #PID<10282.253.0>,
+ #PID<10300.253.0>, #PID<10301.251.0>]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10295.253.0>, #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>,
+ #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>]
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"M -> QUIERO WORKERS"
+[#PID<10295.253.0>, #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>,
+ #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10295.253.0>, #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>,
+ #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>,
+ #PID<10302.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10295.253.0>, #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>,
+ #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>,
+ #PID<10302.255.0>, #PID<10291.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10295.253.0>, #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>,
+ #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>,
+ #PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10295.253.0>, #PID<10285.249.0>, #PID<10297.255.0>, #PID<10296.253.0>,
+ #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>,
+ #PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"M -> workers recibidos "
+[#PID<10296.253.0>, #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>,
+ #PID<10299.251.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10288.253.0>, #PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>,
+ #PID<10290.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"PR -> solucion recivida"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> QUIERO WORKERS"
+7883
+[#PID<10296.253.0>, #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>,
+ #PID<10299.251.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10288.253.0>, #PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>,
+ #PID<10290.255.0>, #PID<10292.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10296.253.0>, #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>,
+ #PID<10299.251.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10288.253.0>, #PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>,
+ #PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+10022
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10296.253.0>, #PID<10286.255.0>, #PID<10298.255.0>, #PID<10287.255.0>,
+ #PID<10299.251.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10288.253.0>, #PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>,
+ #PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10287.255.0>, #PID<10299.251.0>, #PID<10282.253.0>, #PID<10300.253.0>,
+ #PID<10301.251.0>, #PID<10288.253.0>, #PID<10302.255.0>, #PID<10291.255.0>,
+ #PID<10284.253.0>, #PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>,
+ #PID<10294.255.0>]
+"M -> workers recibidos "
+7883
+"PR -> SOLUCION RECIVIDA"
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> QUIERO WORKERS"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10287.255.0>, #PID<10299.251.0>, #PID<10282.253.0>, #PID<10300.253.0>,
+ #PID<10301.251.0>, #PID<10288.253.0>, #PID<10302.255.0>, #PID<10291.255.0>,
+ #PID<10284.253.0>, #PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>,
+ #PID<10294.255.0>, #PID<10295.253.0>]
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> workers recibidos "
+[#PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>, #PID<10302.255.0>,
+ #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"M -> TENGO WORKERS"
+7883
+"PR -> START"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> QUIERO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>, #PID<10302.255.0>,
+ #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>, #PID<10297.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+5841
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10301.251.0>, #PID<10288.253.0>, #PID<10302.255.0>,
+ #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>, #PID<10297.255.0>,
+ #PID<10285.249.0>]
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> workers recibidos "
+[#PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10297.255.0>, #PID<10285.249.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"M -> QUIERO WORKERS"
+"PR -> solucion recivida"
+[#PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>]
+5841
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>, #PID<10298.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+5841
+[#PID<10302.255.0>, #PID<10291.255.0>, #PID<10284.253.0>, #PID<10290.255.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>, #PID<10295.253.0>,
+ #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>, #PID<10298.255.0>,
+ #PID<10299.251.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+[#PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>,
+ #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>,
+ #PID<10298.255.0>, #PID<10299.251.0>]
+"PR -> START"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> MASTER ESTA VIVO"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> QUIERO WORKERS"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>,
+ #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>,
+ #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>,
+ #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>,
+ #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>, #PID<10282.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+[#PID<10290.255.0>, #PID<10292.255.0>, #PID<10293.255.0>, #PID<10294.255.0>,
+ #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>, #PID<10296.253.0>,
+ #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>, #PID<10282.253.0>,
+ #PID<10287.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+5843
+"M -> workers recibidos "
+[#PID<10294.255.0>, #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>,
+ #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>, #PID<10287.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> QUIERO WORKERS"
+[#PID<10294.255.0>, #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>,
+ #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>]
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+[#PID<10294.255.0>, #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>,
+ #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>, #PID<10300.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+5843
+[#PID<10294.255.0>, #PID<10295.253.0>, #PID<10297.255.0>, #PID<10285.249.0>,
+ #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>, #PID<10300.253.0>,
+ #PID<10301.251.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10285.249.0>, #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>,
+ #PID<10300.253.0>, #PID<10301.251.0>]
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> QUIERO WORKERS"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10285.249.0>, #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>,
+ #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>]
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PO -> OK0"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10285.249.0>, #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>,
+ #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK0"
+[#PID<10285.249.0>, #PID<10296.253.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>, #PID<10288.253.0>,
+ #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10302.255.0>]
+5845
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> workers recibidos "
+[#PID<10299.251.0>, #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>,
+ #PID<10291.255.0>, #PID<10302.255.0>]
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"M -> QUIERO WORKERS"
+[#PID<10299.251.0>, #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>,
+ #PID<10291.255.0>, #PID<10302.255.0>, #PID<10290.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10299.251.0>, #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>,
+ #PID<10291.255.0>, #PID<10302.255.0>, #PID<10290.255.0>, #PID<10293.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10299.251.0>, #PID<10286.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>, #PID<10284.253.0>,
+ #PID<10291.255.0>, #PID<10302.255.0>, #PID<10290.255.0>, #PID<10293.255.0>,
+ #PID<10292.255.0>]
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> workers recibidos "
+[#PID<10287.255.0>, #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>, #PID<10290.255.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"M -> MASTER ESTA VIVO"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10287.255.0>, #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>, #PID<10290.255.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10297.255.0>]
+5847
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10287.255.0>, #PID<10288.253.0>, #PID<10300.253.0>, #PID<10301.251.0>,
+ #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>, #PID<10290.255.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10297.255.0>, #PID<10295.253.0>]
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>,
+ #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>, #PID<10297.255.0>,
+ #PID<10295.253.0>]
+"M -> workers recibidos "
+3835
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK0"
+"M -> MASTER ESTA VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>,
+ #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>, #PID<10297.255.0>,
+ #PID<10295.253.0>, #PID<10296.253.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>,
+ #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>, #PID<10297.255.0>,
+ #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+[#PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>, #PID<10302.255.0>,
+ #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>, #PID<10297.255.0>,
+ #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> workers recibidos "
+[#PID<10302.255.0>, #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>,
+ #PID<10297.255.0>, #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>,
+ #PID<10298.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+3835
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"PO -> OK0"
+"M -> MASTER ESTA VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+[#PID<10302.255.0>, #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>,
+ #PID<10297.255.0>, #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>,
+ #PID<10298.255.0>, #PID<10299.251.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10302.255.0>, #PID<10290.255.0>, #PID<10293.255.0>, #PID<10292.255.0>,
+ #PID<10297.255.0>, #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>,
+ #PID<10298.255.0>, #PID<10299.251.0>, #PID<10282.253.0>]
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10292.255.0>, #PID<10297.255.0>, #PID<10295.253.0>, #PID<10296.253.0>,
+ #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10282.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> MASTER ESTA VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"M -> QUIERO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10292.255.0>, #PID<10297.255.0>, #PID<10295.253.0>, #PID<10296.253.0>,
+ #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10282.253.0>,
+ #PID<10286.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+3836
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10292.255.0>, #PID<10297.255.0>, #PID<10295.253.0>, #PID<10296.253.0>,
+ #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>, #PID<10282.253.0>,
+ #PID<10286.255.0>, #PID<10300.253.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"PR -> solucion recivida"
+[#PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>]
+"M -> workers recibidos "
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> MASTER ESTA VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> QUIERO WORKERS"
+[#PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10288.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+3837
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10284.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+[#PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10284.253.0>, #PID<10287.255.0>]
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+3837
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10296.253.0>, #PID<10285.249.0>, #PID<10298.255.0>, #PID<10299.251.0>,
+ #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>, #PID<10291.255.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> workers recibidos "
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+"PO -> OK0"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>]
+3838
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>, #PID<10302.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>, #PID<10302.255.0>,
+ #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>, #PID<10302.255.0>,
+ #PID<10292.255.0>, #PID<10295.253.0>]
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10299.251.0>, #PID<10282.253.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>, #PID<10301.251.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>, #PID<10302.255.0>,
+ #PID<10292.255.0>, #PID<10295.253.0>, #PID<10297.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+[#PID<10300.253.0>, #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>,
+ #PID<10301.251.0>, #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>, #PID<10297.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> workers recibidos "
+3840
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"PO -> OK0"
+"M -> MASTER ESTA VIVO"
+[#PID<10300.253.0>, #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>,
+ #PID<10301.251.0>, #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>, #PID<10297.255.0>,
+ #PID<10298.255.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10300.253.0>, #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>,
+ #PID<10301.251.0>, #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>, #PID<10297.255.0>,
+ #PID<10298.255.0>, #PID<10296.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10300.253.0>, #PID<10288.253.0>, #PID<10284.253.0>, #PID<10287.255.0>,
+ #PID<10301.251.0>, #PID<10291.255.0>, #PID<10293.255.0>, #PID<10290.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>, #PID<10297.255.0>,
+ #PID<10298.255.0>, #PID<10296.253.0>, #PID<10285.249.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10287.255.0>, #PID<10301.251.0>, #PID<10291.255.0>, #PID<10293.255.0>,
+ #PID<10290.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10297.255.0>, #PID<10298.255.0>, #PID<10296.253.0>, #PID<10285.249.0>]
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"M -> workers recibidos "
+[#PID<10293.255.0>, #PID<10290.255.0>, #PID<10302.255.0>, #PID<10292.255.0>,
+ #PID<10295.253.0>, #PID<10297.255.0>, #PID<10298.255.0>, #PID<10296.253.0>,
+ #PID<10285.249.0>]
+"M -> TENGO WORKERS"
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> QUIERO WORKERS"
+[#PID<10292.255.0>, #PID<10295.253.0>, #PID<10297.255.0>, #PID<10298.255.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>]
+"M -> workers recibidos "
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[#PID<10298.255.0>, #PID<10296.253.0>, #PID<10285.249.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"M -> TENGO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"PR -> START"
+[#PID<10298.255.0>, #PID<10296.253.0>, #PID<10285.249.0>, #PID<10286.255.0>]
+"M -> MASTER ESTA VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10298.255.0>, #PID<10296.253.0>, #PID<10285.249.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+3842
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10286.255.0>, #PID<10282.253.0>]
+"M -> workers recibidos "
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+1676
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> SOLUCION RECIVIDA"
+"M -> MASTER ESTA VIVO"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"M -> QUIERO WORKERS"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10288.253.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10301.251.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+1677
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"PO -> OK0"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10301.251.0>, #PID<10284.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+1677
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>, #PID<10290.255.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+1677
+"PO -> OK0"
+[#PID<10286.255.0>, #PID<10282.253.0>, #PID<10300.253.0>, #PID<10288.253.0>,
+ #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>, #PID<10290.255.0>,
+ #PID<10287.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK0"
+1677
+"M -> MASTER ESTA VIVO"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>, #PID<10297.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>, #PID<10297.255.0>,
+ #PID<10302.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>, #PID<10297.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>, #PID<10297.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>, #PID<10297.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>, #PID<10296.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10288.253.0>, #PID<10301.251.0>, #PID<10284.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>, #PID<10297.255.0>,
+ #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>, #PID<10296.253.0>,
+ #PID<10285.249.0>]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>,
+ #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>]
+"PR -> solucion recivida"
+"M -> TENGO WORKERS"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"PR -> solucion recivida"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>,
+ #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>, #PID<10300.253.0>]
+1679
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>,
+ #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>, #PID<10300.253.0>, #PID<10286.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>,
+ #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>, #PID<10300.253.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>,
+ #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>, #PID<10300.253.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>, #PID<10301.251.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10287.255.0>, #PID<10293.255.0>,
+ #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>, #PID<10295.253.0>,
+ #PID<10296.253.0>, #PID<10285.249.0>, #PID<10300.253.0>, #PID<10286.255.0>,
+ #PID<10282.253.0>, #PID<10301.251.0>, #PID<10288.253.0>]
+1681
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10293.255.0>, #PID<10297.255.0>, #PID<10302.255.0>, #PID<10292.255.0>,
+ #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>, #PID<10300.253.0>,
+ #PID<10286.255.0>, #PID<10282.253.0>, #PID<10301.251.0>, #PID<10288.253.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10292.255.0>, #PID<10295.253.0>, #PID<10296.253.0>, #PID<10285.249.0>,
+ #PID<10300.253.0>, #PID<10286.255.0>, #PID<10282.253.0>, #PID<10301.251.0>,
+ #PID<10288.253.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10285.249.0>, #PID<10300.253.0>, #PID<10286.255.0>, #PID<10282.253.0>,
+ #PID<10301.251.0>, #PID<10288.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> workers recibidos "
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> TENGO WORKERS"
+"PR -> START"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> MASTER ESTA VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10282.253.0>, #PID<10301.251.0>, #PID<10288.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> workers recibidos "
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"M -> MASTER ESTA VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"PO -> OK0"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10282.253.0>, #PID<10301.251.0>, #PID<10288.253.0>, #PID<10291.255.0>]
+"M -> QUIERO WORKERS"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+[#PID<10282.253.0>, #PID<10301.251.0>, #PID<10288.253.0>, #PID<10291.255.0>,
+ #PID<10290.255.0>]
+5
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10291.255.0>, #PID<10290.255.0>]
+"M -> workers recibidos "
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> START"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10297.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10297.255.0>, #PID<10287.255.0>]
+"PR -> solucion recivida"
+6
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10297.255.0>, #PID<10287.255.0>,
+ #PID<10293.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10297.255.0>, #PID<10287.255.0>,
+ #PID<10293.255.0>, #PID<10296.253.0>]
+7
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10291.255.0>, #PID<10290.255.0>, #PID<10297.255.0>, #PID<10287.255.0>,
+ #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PO -> OK0"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>,
+ #PID<10302.255.0>]
+7
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"PO -> OK0"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>,
+ #PID<10302.255.0>, #PID<10286.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>,
+ #PID<10302.255.0>, #PID<10286.255.0>, #PID<10300.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>,
+ #PID<10302.255.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10285.249.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>,
+ #PID<10302.255.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10285.249.0>,
+ #PID<10282.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10287.255.0>, #PID<10293.255.0>, #PID<10296.253.0>, #PID<10292.255.0>,
+ #PID<10302.255.0>, #PID<10286.255.0>, #PID<10300.253.0>, #PID<10285.249.0>,
+ #PID<10282.253.0>, #PID<10288.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+7
+"PO -> ESTOY VIVO"
+[#PID<10292.255.0>, #PID<10302.255.0>, #PID<10286.255.0>, #PID<10300.253.0>,
+ #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"M -> workers recibidos "
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>]
+"PR -> SOLUCION RECIVIDA"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> TENGO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+9
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>]
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+11
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>]
+12
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>,
+ #PID<10301.251.0>]
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"PO -> OK0"
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>,
+ #PID<10301.251.0>, #PID<10304.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>,
+ #PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>]
+10006
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10285.249.0>, #PID<10282.253.0>, #PID<10288.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>, #PID<10296.253.0>,
+ #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>,
+ #PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>, #PID<10305.253.0>]
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+[#PID<10288.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10290.255.0>,
+ #PID<10296.253.0>, #PID<10293.255.0>, #PID<10292.255.0>, #PID<10287.255.0>,
+ #PID<10302.255.0>, #PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>,
+ #PID<10305.253.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10290.255.0>, #PID<10296.253.0>, #PID<10293.255.0>, #PID<10292.255.0>,
+ #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>, #PID<10304.255.0>,
+ #PID<10303.255.0>, #PID<10305.253.0>]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PR -> START"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10304.255.0>, #PID<10303.255.0>, #PID<10305.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>, #PID<10305.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"M -> workers recibidos "
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PR -> solucion recivida"
+[#PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>, #PID<10305.253.0>,
+ #PID<10282.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> MASTER ESTA VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>, #PID<10305.253.0>,
+ #PID<10282.253.0>, #PID<10285.249.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+6
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+[#PID<10301.251.0>, #PID<10304.255.0>, #PID<10303.255.0>, #PID<10305.253.0>,
+ #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>]
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> workers recibidos "
+[#PID<10305.253.0>, #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PR -> START"
+"M -> TENGO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PO -> OK0"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10305.253.0>, #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>,
+ #PID<10297.255.0>]
+6
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+[#PID<10305.253.0>, #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+7
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10305.253.0>, #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10305.253.0>, #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>, #PID<10296.253.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+7
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10305.253.0>, #PID<10282.253.0>, #PID<10285.249.0>, #PID<10300.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>, #PID<10296.253.0>,
+ #PID<10288.253.0>]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>,
+ #PID<10296.253.0>, #PID<10288.253.0>]
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+"M -> QUIERO WORKERS"
+[#PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>,
+ #PID<10296.253.0>, #PID<10288.253.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>,
+ #PID<10296.253.0>, #PID<10288.253.0>, #PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>,
+ #PID<10296.253.0>, #PID<10288.253.0>, #PID<10292.255.0>, #PID<10287.255.0>,
+ #PID<10302.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>,
+ #PID<10296.253.0>, #PID<10288.253.0>, #PID<10292.255.0>, #PID<10287.255.0>,
+ #PID<10302.255.0>, #PID<10301.251.0>]
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> workers recibidos "
+[#PID<10293.255.0>, #PID<10296.253.0>, #PID<10288.253.0>, #PID<10292.255.0>,
+ #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"M -> MASTER ESTA VIVO"
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> QUIERO WORKERS"
+[#PID<10293.255.0>, #PID<10296.253.0>, #PID<10288.253.0>, #PID<10292.255.0>,
+ #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>, #PID<10303.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> workers recibidos "
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> TENGO WORKERS"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"PR -> solucion recivida"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>, #PID<10285.249.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>, #PID<10285.249.0>,
+ #PID<10305.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+13
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>, #PID<10285.249.0>,
+ #PID<10305.253.0>, #PID<10300.253.0>]
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>, #PID<10285.249.0>,
+ #PID<10305.253.0>, #PID<10300.253.0>, #PID<10297.255.0>]
+"PO -> ESTOY VIVO"
+14
+"PO -> OK0"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>, #PID<10285.249.0>,
+ #PID<10305.253.0>, #PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10301.251.0>,
+ #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>, #PID<10285.249.0>,
+ #PID<10305.253.0>, #PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>,
+ #PID<10293.255.0>]
+"PO -> ESTOY VIVO"
+14
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+14
+
+13:14:31.510 [error] Process #PID<10296.254.0> on node :"node3@155.210.154.196" raised an exception
+** (ArithmeticError) bad argument in arithmetic expression
+    (stdlib) :math.pow(1.618033988749895, 1500)
+    p3_v2.ex:29: Fib.x_of/1
+    p3_v2.ex:26: Fib.of/1
+    p3_v2.ex:66: Worker.worker/3
+ 
+13:14:31.513 [error] Process #PID<10288.254.0> on node :"node3@155.210.154.204" raised an exception
+** (ArithmeticError) bad argument in arithmetic expression
+    (stdlib) :math.pow(1.618033988749895, 1500)
+    p3_v2.ex:29: Fib.x_of/1
+    p3_v2.ex:26: Fib.of/1
+    p3_v2.ex:66: Worker.worker/3
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+[#PID<10301.251.0>, #PID<10303.255.0>, #PID<10304.255.0>, #PID<10282.253.0>,
+ #PID<10285.249.0>, #PID<10305.253.0>, #PID<10300.253.0>, #PID<10297.255.0>,
+ #PID<10291.255.0>, #PID<10293.255.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10282.253.0>, #PID<10285.249.0>, #PID<10305.253.0>, #PID<10300.253.0>,
+ #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10300.253.0>, #PID<10297.255.0>, #PID<10291.255.0>, #PID<10293.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10293.255.0>]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> START"
+"M -> TENGO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> MASTER ESTA VIVO"
+"PR -> SOLUCION RECIVIDA"
+"M -> QUIERO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10293.255.0>, #PID<10292.255.0>]
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10293.255.0>, #PID<10292.255.0>, #PID<10301.251.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+6
+[]
+"PR -> solucion recivida"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> TENGO WORKERS"
+"PO -> OK2"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+[#PID<10282.253.0>]
+"PR -> solucion recivida"
+"M -> QUIERO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+6
+"PR -> solucion recivida"
+[#PID<10282.253.0>, #PID<10302.255.0>]
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> solucion recivida"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10282.253.0>, #PID<10302.255.0>, #PID<10287.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10282.253.0>, #PID<10302.255.0>, #PID<10287.255.0>, #PID<10285.249.0>]
+7
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10285.249.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PR -> solucion recivida"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+[#PID<10285.249.0>, #PID<10304.255.0>]
+"M -> QUIERO WORKERS"
+7
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK2"
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>, #PID<10303.255.0>]
+7
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>, #PID<10303.255.0>,
+ #PID<10291.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>, #PID<10303.255.0>,
+ #PID<10291.255.0>, #PID<10297.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>, #PID<10303.255.0>,
+ #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>, #PID<10303.255.0>,
+ #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>, #PID<10292.255.0>]
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> solucion recivida"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+9
+[#PID<10285.249.0>, #PID<10304.255.0>, #PID<10300.253.0>, #PID<10303.255.0>,
+ #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+[#PID<10303.255.0>, #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>]
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> ESTOY VIVO"
+"M -> MASTER ESTA VIVO"
+"PO -> OK0"
+[#PID<10303.255.0>, #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10282.253.0>]
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10303.255.0>, #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10282.253.0>, #PID<10287.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+[#PID<10303.255.0>, #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10302.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+
+13:14:33.500 [error] Process #PID<10285.250.0> on node :"node4@155.210.154.203" raised an exception
+** (ArithmeticError) bad argument in arithmetic expression
+    (stdlib) :math.pow(1.618033988749895, 1500)
+    p3_v2.ex:29: Fib.x_of/1
+    p3_v2.ex:26: Fib.of/1
+    p3_v2.ex:66: Worker.worker/3
+"PO -> OK0"
+[#PID<10303.255.0>, #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10302.255.0>, #PID<10300.253.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+13
+"PR -> solucion recivida"
+"PO -> OK0"
+[#PID<10303.255.0>, #PID<10291.255.0>, #PID<10297.255.0>, #PID<10305.253.0>,
+ #PID<10292.255.0>, #PID<10293.255.0>, #PID<10282.253.0>, #PID<10287.255.0>,
+ #PID<10302.255.0>, #PID<10300.253.0>, #PID<10304.255.0>]
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+[#PID<10305.253.0>, #PID<10292.255.0>, #PID<10293.255.0>, #PID<10282.253.0>,
+ #PID<10287.255.0>, #PID<10302.255.0>, #PID<10300.253.0>, #PID<10304.255.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"M -> workers recibidos "
+[#PID<10282.253.0>, #PID<10287.255.0>, #PID<10302.255.0>, #PID<10300.253.0>,
+ #PID<10304.255.0>]
+"PR -> START"
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> QUIERO WORKERS"
+[#PID<10300.253.0>, #PID<10304.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> TENGO WORKERS"
+"PR -> START"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> QUIERO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10297.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+[]
+"M -> workers recibidos "
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"M -> TENGO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> MASTER ESTA VIVO"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"M -> QUIERO WORKERS"
+[#PID<10291.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+5
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK2"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+[#PID<10291.255.0>, #PID<10293.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10291.255.0>, #PID<10293.255.0>, #PID<10292.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"M -> TENGO WORKERS"
+"PR -> solucion recivida"
+"PR -> START"
+[#PID<10303.255.0>]
+"M -> MASTER ESTA VIVO"
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> solucion recivida"
+[#PID<10303.255.0>, #PID<10282.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10303.255.0>, #PID<10282.253.0>, #PID<10305.253.0>]
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10303.255.0>, #PID<10282.253.0>, #PID<10305.253.0>, #PID<10302.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10302.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"M -> TENGO WORKERS"
+"PR -> START"
+8
+[#PID<10302.255.0>, #PID<10297.255.0>]
+"PR -> solucion recivida"
+"M -> MASTER ESTA VIVO"
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK2"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10302.255.0>, #PID<10297.255.0>, #PID<10287.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10302.255.0>, #PID<10297.255.0>, #PID<10287.255.0>, #PID<10300.253.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK0"
+"W-> he recibido tarea voy a resolverla WII"
+8
+[#PID<10302.255.0>, #PID<10297.255.0>, #PID<10287.255.0>, #PID<10300.253.0>,
+ #PID<10304.255.0>]
+"PO -> ESTOY VIVO"
+[#PID<10300.253.0>, #PID<10304.255.0>]
+"M -> workers recibidos "
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> START"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+"PR -> SOLUCION RECIVIDA"
+9
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>, #PID<10291.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+9
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>, #PID<10291.255.0>,
+ #PID<10293.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>, #PID<10291.255.0>,
+ #PID<10293.255.0>, #PID<10282.253.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>, #PID<10291.255.0>,
+ #PID<10293.255.0>, #PID<10282.253.0>, #PID<10305.253.0>]
+
+13:14:35.597 [error] Process #PID<10297.256.0> on node :"node4@155.210.154.196" raised an exception
+** (ArithmeticError) bad argument in arithmetic expression
+    (stdlib) :math.pow(1.618033988749895, 1500)
+    p3_v2.ex:29: Fib.x_of/1
+    p3_v2.ex:26: Fib.of/1
+    p3_v2.ex:66: Worker.worker/3
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>, #PID<10291.255.0>,
+ #PID<10293.255.0>, #PID<10282.253.0>, #PID<10305.253.0>, #PID<10303.255.0>]
+"PO -> ESTOY VIVO"
+9
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK0"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10300.253.0>, #PID<10304.255.0>, #PID<10292.255.0>, #PID<10291.255.0>,
+ #PID<10293.255.0>, #PID<10282.253.0>, #PID<10305.253.0>, #PID<10303.255.0>,
+ #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+13
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[#PID<10291.255.0>, #PID<10293.255.0>, #PID<10282.253.0>, #PID<10305.253.0>,
+ #PID<10303.255.0>, #PID<10287.255.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+[#PID<10305.253.0>, #PID<10303.255.0>, #PID<10287.255.0>]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+[]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> TENGO WORKERS"
+"PR -> START"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> QUIERO WORKERS"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10300.253.0>]
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10300.253.0>, #PID<10292.255.0>]
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10300.253.0>, #PID<10292.255.0>, #PID<10291.255.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+[]
+"M -> workers recibidos "
+"PR -> SOLUCION RECIVIDA"
+6
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+[#PID<10304.255.0>]
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PO -> OK2"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10304.255.0>, #PID<10293.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10304.255.0>, #PID<10293.255.0>, #PID<10303.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+6
+[]
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> workers recibidos "
+"PR -> solucion recivida"
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> START"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+"PR -> SOLUCION RECIVIDA"
+[#PID<10287.255.0>]
+"M -> QUIERO WORKERS"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10287.255.0>, #PID<10300.253.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+7
+"PO -> OK2"
+[#PID<10287.255.0>, #PID<10300.253.0>, #PID<10291.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"M -> TENGO WORKERS"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> OK2"
+"PR -> START"
+"PR -> SOLUCION RECIVIDA"
+"M -> MASTER ESTA VIVO"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"PR -> solucion recivida"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10292.255.0>, #PID<10293.255.0>]
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+8
+"PO -> ESTOY VIVO"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10304.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+[]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"PO -> OK2"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10303.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+9
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10303.255.0>, #PID<10300.253.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"IW -> ()()()()()()()()()()()()()()()()"
+[#PID<10303.255.0>, #PID<10300.253.0>, #PID<10291.255.0>]
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10303.255.0>, #PID<10300.253.0>, #PID<10291.255.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK0"
+"PR -> solucion recivida"
+[#PID<10303.255.0>, #PID<10300.253.0>, #PID<10291.255.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> ESTOY VIVO"
+9
+"PO -> OK0"
+[#PID<10303.255.0>, #PID<10300.253.0>, #PID<10291.255.0>, #PID<10292.255.0>,
+ #PID<10293.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+10
+"M -> QUIERO WORKERS"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10287.255.0>]
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+[]
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PR -> START"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"M -> MASTER ESTA VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"PR -> solucion recivida"
+[#PID<10291.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+[#PID<10291.255.0>, #PID<10300.253.0>]
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> SOLUCION RECIVIDA"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"PR -> solucion recivida"
+[#PID<10291.255.0>, #PID<10300.253.0>, #PID<10293.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"IW -> ()()()()()()()()()()()()()()()()"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+7
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> ESTOY VIVO"
+8
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"PR -> solucion recivida"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10300.253.0>]
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+[]
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK2"
+9
+"M -> MASTER ESTA VIVO"
+[#PID<10291.255.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10291.255.0>, #PID<10293.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"PR -> solucion recivida"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[#PID<10291.255.0>, #PID<10293.255.0>, #PID<10292.255.0>]
+12
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PO -> OK2"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+[#PID<10300.253.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> OK2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10300.253.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10300.253.0>, #PID<10287.255.0>, #PID<10293.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> OK2"
+"M -> MASTER ESTA VIVO"
+14
+[#PID<10292.255.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10293.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10293.255.0>, #PID<10300.253.0>]
+16
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"M -> MASTER ESTA VIVO"
+"PR -> solucion recivida"
+"M -> QUIERO WORKERS"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PO -> OK2"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+[#PID<10287.255.0>]
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PO -> ESTOY VIVO"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10287.255.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+18
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10287.255.0>, #PID<10292.255.0>, #PID<10300.253.0>]
+"PO -> ESTOY VIVO"
+[]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PR -> solucion recivida"
+"PO -> OK2"
+334
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"M -> QUIERO WORKERS"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10294.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+962
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10299.253.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+973
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10298.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+976
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+"IW -> =============================="
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10284.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+979
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10295.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+1508
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10286.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"PR -> solucion recivida"
+"PO -> OK2"
+1521
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10290.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+3577
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10296.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"PO -> REVIVE2"
+"PR -> START"
+"M -> TENGO WORKERS"
+[#PID<10288.255.0>]
+"M -> MASTER ESTA VIVO"
+"PO -> ESTOY VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK2"
+[#PID<10288.255.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+1471
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10288.255.0>, #PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+1474
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10301.253.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+"W-> he recibido tarea voy a resolverla WII"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+3483
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10285.251.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+3490
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10302.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"PO -> REVIVE2"
+"M -> MASTER ESTA VIVO"
+[#PID<10297.257.0>]
+"M -> QUIERO WORKERS"
+"PO -> ESTOY VIVO"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"W-> he recibido tarea voy a resolverla WII"
+"PO -> OK2"
+[#PID<10297.257.0>, #PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+5594
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10297.257.0>, #PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10292.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"IW -> ()()()()()()()()()()()()()()()()"
+5597
+"PR -> solucion recivida"
+"PO -> OK2"
+[#PID<10292.255.0>, #PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10292.255.0>, #PID<10287.255.0>, #PID<10282.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"W-> he recibido tarea voy a resolverla WII"
+
+13:14:51.659 [error] Process #PID<10292.256.0> on node :"node3@155.210.154.205" raised an exception
+** (ArithmeticError) bad argument in arithmetic expression
+    (stdlib) :math.pow(1.618033988749895, 1500)
+    p3_v2.ex:29: Fib.x_of/1
+    p3_v2.ex:26: Fib.of/1
+    p3_v2.ex:66: Worker.worker/3
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10305.255.0>]
+"PO -> ESTOY VIVO"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PR -> TIMOUT EXCEDIDO2"
+"PO -> OK2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+[#PID<10305.255.0>, #PID<10287.255.0>]
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+"PO -> ESTOY VIVO"
+"IW -> =============================="
+7642
+"PO -> REVIVE2"
+[#PID<10305.255.0>, #PID<10287.255.0>, #PID<10304.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"PR -> START"
+"M -> TENGO WORKERS"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+5478
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10287.255.0>, #PID<10291.257.0>]
+"PO -> ESTOY VIVO"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10287.255.0>, #PID<10291.257.0>, #PID<10300.255.0>]
+"PO -> ESTOY VIVO"
+[]
+"PO -> ESTOY VIVO"
+"M -> workers recibidos "
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+7865
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10287.255.0>, #PID<10293.257.0>]
+"PO -> ESTOY VIVO"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> =============================="
+"PO -> REVIVE2"
+[#PID<10287.255.0>, #PID<10293.257.0>, #PID<10292.257.0>]
+"PO -> ESTOY VIVO"
+[]
+"M -> workers recibidos "
+"PO -> ESTOY VIVO"
+"M -> TENGO WORKERS"
+"PR -> START"
+"M -> MASTER ESTA VIVO"
+"M -> QUIERO WORKERS"
+"IW -> &&&&&&&&&&&&&&&&&&&&&&&&&&&"
+"W-> he recibido tarea voy a resolverla WII"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"IW -> ()()()()()()()()()()()()()()()()"
+"PR -> SOLUCION RECIVIDA"
+"PO -> OK2"
+[#PID<10287.255.0>]
+"PO -> ESTOY VIVO"
+"C OKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOKOK"
+19481
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"PR -> TIMOUT EXCEDIDO2"
+"PR -> FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++++++++++++++++++++++++++"
+"C ++++++++++++++++++@@@@++++++++++++++++++++"
+
+BREAK: (a)bort (c)ontinue (p)roc info (i)nfo (l)oaded
+       (v)ersion (k)ill (D)b-tables (d)istribution
+a
+[a755844@lab102-202 Distribuidos]$ 
+
